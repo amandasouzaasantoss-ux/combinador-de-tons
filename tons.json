@@ -1,0 +1,21 @@
+{
+  "aviso": "Catalogo ficticio, criado apenas para demonstracao. Nao representa nenhuma marca real.",
+  "tons": [
+    {"codigo": "N10", "nome": "Porcelana", "subtom": "neutro", "hex": "#F5DDCB"},
+    {"codigo": "C15", "nome": "Marfim Rosado", "subtom": "frio", "hex": "#F1D2C4"},
+    {"codigo": "W20", "nome": "Areia Clara", "subtom": "quente", "hex": "#EBCBA8"},
+    {"codigo": "N25", "nome": "Bege Claro", "subtom": "neutro", "hex": "#E6C4A5"},
+    {"codigo": "C30", "nome": "Nude Rosado", "subtom": "frio", "hex": "#DDB4A0"},
+    {"codigo": "W35", "nome": "Bege Dourado", "subtom": "quente", "hex": "#DBB088"},
+    {"codigo": "N40", "nome": "Bege Medio", "subtom": "neutro", "hex": "#D2A582"},
+    {"codigo": "W45", "nome": "Mel", "subtom": "quente", "hex": "#C99A6B"},
+    {"codigo": "C50", "nome": "Canela Suave", "subtom": "frio", "hex": "#BE8E75"},
+    {"codigo": "N55", "nome": "Caramelo", "subtom": "neutro", "hex": "#B98A5E"},
+    {"codigo": "W60", "nome": "Bronze", "subtom": "quente", "hex": "#AE7C4F"},
+    {"codigo": "C65", "nome": "Cacau Claro", "subtom": "frio", "hex": "#9F6E58"},
+    {"codigo": "N70", "nome": "Castanha", "subtom": "neutro", "hex": "#8F6040"},
+    {"codigo": "W75", "nome": "Cafe", "subtom": "quente", "hex": "#7E5236"},
+    {"codigo": "C80", "nome": "Ebano Rosado", "subtom": "frio", "hex": "#6B4338"},
+    {"codigo": "N90", "nome": "Ebano", "subtom": "neutro", "hex": "#5A3A2B"}
+  ]
+}
